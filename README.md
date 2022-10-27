@@ -1,1 +1,1 @@
-This is a new repo for learning git
+This is a new repo for learning git eat shit
